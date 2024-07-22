@@ -1,5 +1,5 @@
 <p align="center">
-  <a rel="noopener" target="_blank"><img width="300" src="./src/assets/CarWorkshops.png" alt="CarWorkshops"></a>
+  <a rel="noopener" target="_blank"><img width="300" src="./src/assets/SpaceDelivery.png" alt="SpaceDelivery"></a>
 </p>
 
 **SpaceDelivery** is an interplanetary delivery website where users can send and receive items from Earth and Mars.

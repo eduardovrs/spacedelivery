@@ -28,7 +28,7 @@ function AddressProvider({ children }: { children: React.ReactNode }) {
 function useAddress() {
   const context = React.useContext(AddressContext);
   if (context === undefined) {
-    throw new Error("useAddress must be used within a AddressProvider");
+    throw new Error("useAddress must be used within an AddressProvider");
   }
   return context;
 }
